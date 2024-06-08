@@ -1,7 +1,7 @@
 # First-Repository
 > I Think it's a Portal?
 
-<img src="https://github.com/Vince9090/First-Repository/assets/143236024/4a64f7f1-ad4c-4337-be1b-eeca2f86d98c" width="20" height="20" alt="rawg_logo" > Rawg
+Rawg <img src="https://github.com/Vince9090/First-Repository/assets/143236024/4a64f7f1-ad4c-4337-be1b-eeca2f86d98c" width="20" height="20" alt="rawg_logo" > 
   
 
 
